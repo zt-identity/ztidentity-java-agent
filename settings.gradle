@@ -1,0 +1,6 @@
+rootProject.name = 'zti-propagation-java-agent'
+
+include "agent"
+include "custom"
+include "smoke-tests"
+
